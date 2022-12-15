@@ -1,8 +1,5 @@
 ### Hi there, I'm Kailey👋
 
-<!--
-**techkailey/techkailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I am currently working on publishing my Portfolio Website
 - 🌱 I am currently learning: Computer Design and Organization, Introduction to Theory of Computation, and Managent Information Systems
 - 👀 I am intrested in Data Science and Cybersecurity.
