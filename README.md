@@ -1,7 +1,7 @@
 ### Hi there, I'm Kailey👋
 
 - 🔭 Check out my Portfolio Website http://techkailey.github.io/MyPortfolioWebsite/
-- ⚡ Entergy, Technical Project Management Intern
+- ⚡ Entergy, IT PMO Project Controls Intern
 - 🌱 Currently learning: Analysis of Algorithms, Data Models and DBS System, Mobile Apps Development
 - 👀 Aspiring Technical Program Manager
 - 👯 Seeking a Summer 2024 Summer Internship 
