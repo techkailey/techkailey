@@ -1,8 +1,9 @@
-<h1>Hi👋, I'm Kailey</h1>
-<h3>Passionate Application Developer From Louisiana</h3>
+<h1 align="center"> Hi👋, I'm Kailey</h1>
+<h3 align="center">Passionate Application Developer From Louisiana</h3>
 
 <a target="_blank" align="center">
-  <img align="center" alt="GIF" src="https://64.media.tumblr.com/ac8e62eabf0aca1078c46e656528f3ac/bc7023c5afea899c-be/s640x960/8136572f55e78f34ff5f1cac0c5a36aeb9f51f5a.gifv">
+  <img align="right" top="500" height="300" width="400" alt="GIF" 
+    src="https://64.media.tumblr.com/ac8e62eabf0aca1078c46e656528f3ac/bc7023c5afea899c-be/s640x960/8136572f55e78f34ff5f1cac0c5a36aeb9f51f5a.gifv">
 </a>
 
 - 👩🏽‍🎓 December 2024: Bachelor of Science in Computer Science
