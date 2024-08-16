@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Application Developer from Louisiana</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ4MjhwYTBmM2t1Nmt3emg5eTljMGVkMnYwejFjcGYxcGo4aW92cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BACNp4PYgXACSPujxi/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/1649915/screenshots/4343397/media/23cb9a9460c0e211d1a70f3fdd9c53a8.gif">
 </a>
 
 - 👩🏽‍🎓 December 2024: Bachelor of Science in Computer Science
