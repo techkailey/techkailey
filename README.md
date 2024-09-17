@@ -1,5 +1,5 @@
 <h1 align="center"> Hi👋, I'm Kailey</h1>
-<h3 align="center">Passionate Application Developer From Louisiana</h3>
+<h3 align="center">Passionate Application Engineer</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" 
