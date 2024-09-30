@@ -7,7 +7,7 @@
 </a>
 
 - 👩🏽‍🎓 December 2024: Bachelor of Science in Computer Science
-- 👯 Seeking a Full-time Role as a Front-End Application Developer
+- 👯 Seeking a Full-time Role as a Front-End Application Engineer
 - 🌱 Currently working on updates on Portfolio Website and Productivity Mobile Application (React-Native)
 - 🔭 Check out my Portfolio Website http://techkailey.github.io/MyPortfolioWebsite/
 - 📫 How to reach me: https://www.linkedin.com/in/kaileybergeron/
